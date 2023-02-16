@@ -3,6 +3,14 @@
     {
       "username":"Prabhat Poddar",
       "email":"pk041222@gmail.com",
+      "password":"Prabhat",
+      "avtar":"https://avatars.githubusercontent.com/u/1222?v=4"
+    }
+  ],
+  "user": [
+    {
+      "username":"Prabhat Poddar",
+      "email":"pk041222@gmail.com",
       "password":"Prabhat"
     }
   ],
