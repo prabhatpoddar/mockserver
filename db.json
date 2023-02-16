@@ -1,19 +1,16 @@
 {
   "users": [
     {
-      "username":"Prabhat Poddar",
-      "email":"pk041222@gmail.com",
-      "password":"Prabhat",
-      "avtar":"https://avatars.githubusercontent.com/u/1222?v=4"
+      "username": "Prabhat Poddar",
+      "email": "pk041222@gmail.com",
+      "password": "Prabhat",
+      "avtar": "https://avatars.githubusercontent.com/u/1222?v=4"
     }
   ],
-  "user": [
-    {
-      "username":"Prabhat Poddar",
-      "email":"pk041222@gmail.com",
-      "password":"Prabhat"
-    }
-  ],
+  "portfolio": [{
+    "name":"HDFC",
+    "quantity":"10"
+  }],
   "blogs": [
     {
       "id": 1,
@@ -24,16 +21,20 @@
       "date": "2017-06-01",
       "likes": 24,
       "comments": [
-        {"username" : "Jane", "content" : "Good One"
+        {
+          "username": "Jane",
+          "content": "Good One"
         },
-        {"username" : "Bob", "content" : "Loved It!"
+        {
+          "username": "Bob",
+          "content": "Loved It!"
         }
       ]
     }
   ],
   "companies": [
     {
-      "id" : 1,
+      "id": 1,
       "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
       "company_name": "HDFC Bank",
       "company_type": "Bank",
@@ -43,7 +44,7 @@
       "price_action": 12
     },
     {
-      "id" : 2,
+      "id": 2,
       "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
       "company_name": "Reliance Industries",
       "company_type": "Oil",
