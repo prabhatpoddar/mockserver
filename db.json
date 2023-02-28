@@ -7,10 +7,12 @@
       "avtar": "https://avatars.githubusercontent.com/u/1222?v=4"
     }
   ],
-  "portfolio": [{
-    "name":"HDFC",
-    "quantity":"10"
-  }],
+  "portfolio": [
+    {
+      "name": "HDFC",
+      "quantity": "10"
+    }
+  ],
   "blogs": [
     {
       "id": 1,
@@ -34,6 +36,7 @@
   ],
   "jobs": [
     {
+      "id": 1,
       "company": "Ellette",
       "postedAt": "2021-03-30",
       "city": "Gangtok",
@@ -45,6 +48,7 @@
       "language": "Java"
     },
     {
+      "id": 2,
       "company": "Jinny",
       "postedAt": "2021-09-09",
       "city": "Ludhiana",
@@ -56,5 +60,4 @@
       "language": "Java"
     }
   ]
-  
 }
