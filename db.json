@@ -1,12 +1,16 @@
 {
   "users": [
     {
-      "username":"Prabhat Poddar",
-      "email":"pk041222@gmail.com",
-      "password":"Prabhat",
-      "avtar":"https://avatars.githubusercontent.com/u/1222?v=4"
+      "username": "Prabhat Poddar",
+      "email": "pk041222@gmail.com",
+      "password": "Prabhat",
+      "avtar": "https://avatars.githubusercontent.com/u/1222?v=4"
     }
   ],
+  "portfolio": [{
+    "name":"HDFC",
+    "quantity":"10"
+  }],
   "blogs": [
     {
       "id": 1,
@@ -17,9 +21,13 @@
       "date": "2017-06-01",
       "likes": 24,
       "comments": [
-        {"username" : "Jane", "content" : "Good One"
+        {
+          "username": "Jane",
+          "content": "Good One"
         },
-        {"username" : "Bob", "content" : "Loved It!"
+        {
+          "username": "Bob",
+          "content": "Loved It!"
         }
       ]
     }
@@ -48,4 +56,5 @@
       "language": "Java"
     }
   ]
+  
 }
